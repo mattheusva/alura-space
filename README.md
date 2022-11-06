@@ -5,7 +5,7 @@ Galeria de imagens do espaço.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Space**
-| :label: Tecnologias | javaScript, html, scss, react
+| :label: Tecnologias | javascript, html, sass, react (tecnologias utilizadas)
 | :rocket: URL         | https://alura-space-two.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
